@@ -1,3 +1,3 @@
 #!/bin/sh
-cd plex
-qbuild
+cd sickrage
+/QDK/bin/qbuild
