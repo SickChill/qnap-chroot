@@ -1,0 +1,3 @@
+[submodule "sickrage"]
+	path = sickrage
+	url = git@github.com:SickRage/qnap-sickrage.git
