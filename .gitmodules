@@ -1,3 +1,4 @@
 [submodule "sickchill"]
 	path = sickchill
 	url = git@github.com:SickChill/qnap-sickchill.git
+	branch = master
