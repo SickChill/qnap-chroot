@@ -1,7 +1,7 @@
 __Instructions__
 
 # First time only
-git clone git@github.com:SickRage/qnap-chroot.git
+git clone git@github.com:SickChill/qnap-chroot.git
 cd qnap-chroot
 # Every time except first time
 git pull
@@ -15,4 +15,4 @@ mknod dev/null c 1 3
 sudo chroot .
 /build-pkg.sh
 
-# qpkg's are in the sickrage/build dir
+# qpkg's are in the sickchill/build dir

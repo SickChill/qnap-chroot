@@ -1,3 +1,3 @@
 #!/bin/sh
-cd sickrage
+cd sickchill
 /QDK/bin/qbuild
